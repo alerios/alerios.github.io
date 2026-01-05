@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ajedrez on 4lerios</title>
-    <link>https://alerios.github.io/tags/ajedrez/</link>
-    <description>Recent content in ajedrez on 4lerios</description>
+    <title>Ajedrez on 4lerios</title>
+    <link>https://alerios.net.eu.org/tags/ajedrez/</link>
+    <description>Recent content in Ajedrez on 4lerios</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <managingEditor>aleriospresidente@gmail.com (Alejandro Rios)</managingEditor>
     <webMaster>aleriospresidente@gmail.com (Alejandro Rios)</webMaster>
-    <lastBuildDate>Tue, 08 Jan 2008 00:22:00 +0000</lastBuildDate><atom:link href="https://alerios.github.io/tags/ajedrez/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Jan 2008 00:22:00 +0000</lastBuildDate>
+    <atom:link href="https://alerios.net.eu.org/tags/ajedrez/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alerios vs Agutierrez</title>
-      <link>https://alerios.github.io/post/2008-01-08-alerios-vs-agutierrez/</link>
-      <pubDate>Tue, 08 Jan 2008 00:22:00 +0000</pubDate>
-      <author>aleriospresidente@gmail.com (Alejandro Rios)</author>
-      <guid>https://alerios.github.io/post/2008-01-08-alerios-vs-agutierrez/</guid>
+      <link>https://alerios.net.eu.org/post/2008-01-08-alerios-vs-agutierrez/</link>
+      <pubDate>Tue, 08 Jan 2008 00:22:00 +0000</pubDate><author>aleriospresidente@gmail.com (Alejandro Rios)</author>
+      <guid>https://alerios.net.eu.org/post/2008-01-08-alerios-vs-agutierrez/</guid>
       <description>De niño siempre quise aprender a jugar Ajedrez, y lo eché al olvido como tantas otras cosas. Cuando estaba todavía en la escuela primaria, mis Papás me regalaron un juego de madera, que poco a poco se fue convirtiendo en un ruidoso corazón delator, latiendo una y otra vez en un rincón de mi cuarto, recordándome que lo había dejado cubriéndose de polvo y que algún día debía rescatarlo y honrar la función para la cual fue diseñado.</description>
     </item>
-    
   </channel>
 </rss>

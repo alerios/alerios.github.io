@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>café on 4lerios</title>
-    <link>https://alerios.github.io/tags/caf%C3%A9/</link>
-    <description>Recent content in café on 4lerios</description>
+    <title>Café on 4lerios</title>
+    <link>https://alerios.net.eu.org/tags/caf%C3%A9/</link>
+    <description>Recent content in Café on 4lerios</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <managingEditor>aleriospresidente@gmail.com (Alejandro Rios)</managingEditor>
     <webMaster>aleriospresidente@gmail.com (Alejandro Rios)</webMaster>
-    <lastBuildDate>Sat, 21 Jan 2012 14:35:00 +0000</lastBuildDate><atom:link href="https://alerios.github.io/tags/caf%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Jan 2012 14:35:00 +0000</lastBuildDate>
+    <atom:link href="https://alerios.net.eu.org/tags/caf%C3%A9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Parcela San Gerardo, Rainforest Alliance Certified</title>
-      <link>https://alerios.github.io/post/2012-01-21-parcela-san-gerardo-rainforest-alliance-certified/</link>
-      <pubDate>Sat, 21 Jan 2012 14:35:00 +0000</pubDate>
-      <author>aleriospresidente@gmail.com (Alejandro Rios)</author>
-      <guid>https://alerios.github.io/post/2012-01-21-parcela-san-gerardo-rainforest-alliance-certified/</guid>
-      <description>(/images/2012/01/09012012-2528006-2529.jpg)Me llena de orgullo poder decir que luego de 10 años de arduo trabajo y sacrificios, mis papás lograron transformar un lote de potrero de una hectárea, en una granja cafetera sostenible, certificada por The RainForest Alliance.
-Esta certificación garantiza que la parcela sigue prácticas que hacen que sea económica, social y ambientalmente sostenible.
-(/images/2012/01/san-gerardo.jpg)El café que producirá ahora la parcela será considerado como un café especial, tal como lo define la federación colombiana de cafeteros:</description>
+      <link>https://alerios.net.eu.org/post/2012-01-21-parcela-san-gerardo-rainforest-alliance-certified/</link>
+      <pubDate>Sat, 21 Jan 2012 14:35:00 +0000</pubDate><author>aleriospresidente@gmail.com (Alejandro Rios)</author>
+      <guid>https://alerios.net.eu.org/post/2012-01-21-parcela-san-gerardo-rainforest-alliance-certified/</guid>
+      <description>(/images/2012/01/09012012-2528006-2529.jpg)Me llena de orgullo poder decir que luego de 10 años de arduo trabajo y sacrificios, mis papás lograron transformar un lote de potrero de una hectárea, en una granja cafetera sostenible, certificada por The RainForest Alliance.&#xA;Esta certificación garantiza que la parcela sigue prácticas que hacen que sea económica, social y ambientalmente sostenible.&#xA;(/images/2012/01/san-gerardo.jpg)El café que producirá ahora la parcela será considerado como un café especial, tal como lo define la federación colombiana de cafeteros:</description>
     </item>
-    
   </channel>
 </rss>

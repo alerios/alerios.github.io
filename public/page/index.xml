@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on 4lerios</title>
-    <link>https://alerios.github.io/page/</link>
+    <link>https://alerios.net.eu.org/page/</link>
     <description>Recent content in Pages on 4lerios</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <managingEditor>aleriospresidente@gmail.com (Alejandro Rios)</managingEditor>
-    <webMaster>aleriospresidente@gmail.com (Alejandro Rios)</webMaster><atom:link href="https://alerios.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>aleriospresidente@gmail.com (Alejandro Rios)</webMaster>
+    <atom:link href="https://alerios.net.eu.org/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://alerios.github.io/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>aleriospresidente@gmail.com (Alejandro Rios)</author>
-      <guid>https://alerios.github.io/page/about/</guid>
+      <link>https://alerios.net.eu.org/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>aleriospresidente@gmail.com (Alejandro Rios)</author>
+      <guid>https://alerios.net.eu.org/page/about/</guid>
       <description>My name is Alejandro Rios Peña. I&amp;rsquo;m an Open-Innovation Facilitator, with both development and product design management backgrounds, whose purpose is facilitating personal development of passionate people by taking to reality innovative high-impact ideas.</description>
     </item>
-    
   </channel>
 </rss>

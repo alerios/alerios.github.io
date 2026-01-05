@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>asterisk on 4lerios</title>
-    <link>https://alerios.github.io/tags/asterisk/</link>
-    <description>Recent content in asterisk on 4lerios</description>
+    <title>Asterisk on 4lerios</title>
+    <link>https://alerios.net.eu.org/tags/asterisk/</link>
+    <description>Recent content in Asterisk on 4lerios</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <managingEditor>aleriospresidente@gmail.com (Alejandro Rios)</managingEditor>
     <webMaster>aleriospresidente@gmail.com (Alejandro Rios)</webMaster>
-    <lastBuildDate>Fri, 15 Oct 2010 17:53:00 +0000</lastBuildDate><atom:link href="https://alerios.github.io/tags/asterisk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Oct 2010 17:53:00 +0000</lastBuildDate>
+    <atom:link href="https://alerios.net.eu.org/tags/asterisk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mashup Howto o de cómo nació Postea.me</title>
-      <link>https://alerios.github.io/post/2010-10-15-mashup-howto-o-de-como-nacio-postea-me/</link>
-      <pubDate>Fri, 15 Oct 2010 17:53:00 +0000</pubDate>
-      <author>aleriospresidente@gmail.com (Alejandro Rios)</author>
-      <guid>https://alerios.github.io/post/2010-10-15-mashup-howto-o-de-como-nacio-postea-me/</guid>
-      <description>Postea.me (mi primer Mashup) es un servicio con el cuál puedes actualizar tu estado en twitter con una llamada telefónica, gratis. Como buen programador linuxero, dejo aquí documentados los pasos que seguí para su construcción:
-1. Investigar un servicio que sea relativamente fácil de armar a partir de cosas ya existentes. En este caso, quería hacer algo que fuera la combinación entre un IVR de Asterisk y Twitter. Encontré que en inglés hay servicios como calltweet.</description>
+      <link>https://alerios.net.eu.org/post/2010-10-15-mashup-howto-o-de-como-nacio-postea-me/</link>
+      <pubDate>Fri, 15 Oct 2010 17:53:00 +0000</pubDate><author>aleriospresidente@gmail.com (Alejandro Rios)</author>
+      <guid>https://alerios.net.eu.org/post/2010-10-15-mashup-howto-o-de-como-nacio-postea-me/</guid>
+      <description>Postea.me (mi primer Mashup) es un servicio con el cuál puedes actualizar tu estado en twitter con una llamada telefónica, gratis. Como buen programador linuxero, dejo aquí documentados los pasos que seguí para su construcción:&#xA;1. Investigar un servicio que sea relativamente fácil de armar a partir de cosas ya existentes. En este caso, quería hacer algo que fuera la combinación entre un IVR de Asterisk y Twitter. Encontré que en inglés hay servicios como calltweet.</description>
     </item>
-    
   </channel>
 </rss>
