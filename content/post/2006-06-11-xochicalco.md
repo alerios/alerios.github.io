@@ -14,7 +14,7 @@ El Miércoles 17 de Mayo se realizó el paseo oficial de la
 arqueológico, y a [Cuernavaca](http://es.wikipedia.org/wiki/Cuernavaca), la
 hermosa capital del Estado de Morelos.
 
-![](images/2006/06/xochicalco-1-222x300.jpg)  
+![](/img/2006/06/xochicalco-1-222x300.jpg)  
 (/images/2006/06/xochicalco-1.jpg)Como en la mayoría de culturas
 precolombinas de Centro y Suramérica, los antiguos habitantes de Xochicalco
 tenían al Jaguar entre sus animales sagrados ylos involucraban en muchos
@@ -25,7 +25,7 @@ observación astronómica, en la cima de una meseta ubicada en medio de un
 paisaje semi-desértico, que no conocí de noche, pero seguramente tiene una
 vista estelar espectacular.
 
-![](images/2006/06/xochicalco-2-300x222.jpg)  
+![](/img/2006/06/xochicalco-2-300x222.jpg)  
 (/images/2006/06/xochicalco-2.jpg)Maqueta a escala de la ciudad. Uno
 entra por el camino que se ve abajo, llega a una plaza frente a la pirámide
 principal y luego la rodea para ir hasta el fondo, pasando junto a una cancha
@@ -43,13 +43,13 @@ el día que fuimos no pudimos acercarnos a la Acrópolis porque los arqueólogos
 estaban trabajando intensamente, en una escena que me recordó por momentos las
 películas de Indiana Jones que tanto me gustan.
 
-![](images/2006/06/xochicalco-3-300x222.jpg)  
+![](/img/2006/06/xochicalco-3-300x222.jpg)  
 (/images/2006/06/xochicalco-3.jpg)Esta es la vista que se tiene al
 entrar a la primera plaza, frente a la pirámide principal. En el centro de la
 plaza hay una piedra blanca donde están grabadas las fechas de dos eclipses
 observados desde esta ciudad.
 
-![](images/2006/06/xochicalco-4-222x300.jpg)  
+![](/img/2006/06/xochicalco-4-222x300.jpg)  
 (/images/2006/06/xochicalco-4.jpg)
 
 La misma pirámide principal, desde un ángulo que resultó irresistible para mí
@@ -65,7 +65,7 @@ acontecimiento, pues en cierto punto de la historia de la ciudad, astrónomos
 de toda [Mesoamérica](http://es.wikipedia.org/wiki/Mesoam%C3%A9rica) se
 reunieron en Xochicalco para sincronizar sus calendarios.
 
-![](images/2006/06/xochicalco-5-300x222.jpg)  
+![](/img/2006/06/xochicalco-5-300x222.jpg)  
 (/images/2006/06/xochicalco-5.jpg) En la imagen grabada en una de las
 paredes de esta pirámide se puede leer el magno evento: Hay un dibujo que
 representa la fecha de la reunión, y de éste salen dos manos, la de la derecha
@@ -73,7 +73,7 @@ está halando una fecha con una cuerda indicando que esa fecha se está
 desechando, y con la otra mano se está poniendo una nueva fecha en lugar de la
 otra.
 
-![](images/2006/06/xochicalco-6-222x300.jpg)  
+![](/img/2006/06/xochicalco-6-222x300.jpg)  
 (/images/2006/06/xochicalco-6.jpg)Este arbolito tiene su base rodeada
 de piedras, al mejor estilo de cualquiera de nuestros parques modernos. Cuando
 lo tuve frente a mí no pude evitar dejar que mi imaginación retrocediera la

@@ -9,7 +9,7 @@ title: Don Peñita
 
 En memoria de mi Abuelo
 
-![abuelo](images/2016/11/abuelo.png)
+![abuelo](/img/2016/11/abuelo.png)
 
 Nieto de Eulogio Peña y María de los Ángeles Becerra, por un lado, y Abel
 Salamanca y Celedonia Ojeda, por el otro; el hijo de Manuel Salvador Peña
@@ -20,7 +20,7 @@ leña y materiales de construcción, y donde, en circunstancias desconocidas, a
 los 10 años queda huérfano junto a su hermana Saturia, viniendo a quedar bajo
 la tutela de uno de sus tíos.
 
-![tarjeta-bisabuelo-manuel](images/2016/11/tarjeta-bisabuelo-manuel.png)
+![tarjeta-bisabuelo-manuel](/img/2016/11/tarjeta-bisabuelo-manuel.png)
 
 ---
 
@@ -40,7 +40,7 @@ Bogotá de una época dorada, el Bogotá de bella arquitectura republicana, del
 tranvía, de los cafés y cigarrerías, del CAmisa, CHAqueta y COrbata. Pero el
 asesinato del caudillo liberal Gaitán - el Bogotazo del 9 de abril de 1948 -cambió la vida de Manuel, de la ciudad y de todo el país para siempre.
 
-![manuel-pena](images/2016/11/Manuel-pena.jpeg)
+![manuel-pena](/img/2016/11/Manuel-pena.jpeg)
 
 ---
 
@@ -79,7 +79,7 @@ bono de cinco pesos de contribución al partido liberal, con la estampa de
 Gaitán. Inmediatamente sin mediar palabra los retienen y los llevan a un
 cuartel donde los golpean y Duarte le dice a Manuel:
 
-![partido-liberal](images/2016/11/partido-liberal.png)
+![partido-liberal](/img/2016/11/partido-liberal.png)
 
 \- Socio, estos son pájaros, nos van a matar... En eso llega otra
 persona, es una voz conocida, que pregunta con firmeza: \- Comandante, ¿Qué
@@ -89,7 +89,7 @@ una persona honesta, ¡déjelos ir! El alcalde les expide un salvoconducto y
 prosiguen su viaje a Honda, esperando no tener más problemas en el camino. Al
 llegar a salvo a casa, Manuel y Edith deciden ir a probar suerte más al sur, a
 la ciudad de Popayán.
-![salvoconducto-abuelo](images/2016/11/salvoconducto-abuelo.png)
+![salvoconducto-abuelo](/img/2016/11/salvoconducto-abuelo.png)
 
 ---
 
@@ -104,7 +104,7 @@ donde la carretera lo permitía, luego debían seguir a lomo de mula, cargando
 varias cajas de madera llenas de herramientas, encajes, telas y todos los
 encargos que la gente de esos pueblos requerían de la ciudad.
 
-![manuel-pena-2](images/2016/11/Manuel-pena-2.jpeg)
+![manuel-pena-2](/img/2016/11/Manuel-pena-2.jpeg)
 
 ---
 
@@ -119,7 +119,7 @@ queda atónita... \- Buenas señora, le ofrezco estas telas de la más alta …
 ¿Edith? \- ¡Artemo! ¡hermano! Nuevamente por una extraña coincidencia, el
 destino quizá, Edith y su familia se reencuentran luego de casi 10 años.
 
-![abuela-edith](images/2016/11/abuela-edith.jpg)
+![abuela-edith](/img/2016/11/abuela-edith.jpg)
 
 ---
 
@@ -196,5 +196,5 @@ y cuidados de sus hijos y nietos, y pudo lograr algo que quizá muy pocos
 alcancemos: conocer a sus bisnietos, dejar huella en generaciones de
 atestiguan su legado y que con orgullo llevan su nombre. Honremos su memoria
 con nuestras acciones.
-![abuelo-y-yo](images/2016/11/abuelo-y-yo.png)
+![abuelo-y-yo](/img/2016/11/abuelo-y-yo.png)
 Gracias Abuelo, Alejandro

@@ -6,7 +6,7 @@ tags:
 title: Ahhh la felicidad
 ---
 
-![](images/2007/10/1508882672_246d2ea708_m.jpg)  
+![](/img/2007/10/1508882672_246d2ea708_m.jpg)  
 (http://www.flickr.com/photos/alerios/1508882672/)  
 [](http://www.flickr.com/photos/alerios/1508882672/)
 

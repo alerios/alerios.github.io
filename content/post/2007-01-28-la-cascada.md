@@ -7,7 +7,7 @@ tags:
 title: La Cascada
 ---
 
-![](images/2007/01/372074348_035252e1e5_m.jpg)  
+![](/img/2007/01/372074348_035252e1e5_m.jpg)  
 (http://www.flickr.com/photos/alerios/tags/cascada/ "Fotos de caminata a la cascada")
 
 Hace mucho tiempo que tenía pendiente publicar [fotos de una

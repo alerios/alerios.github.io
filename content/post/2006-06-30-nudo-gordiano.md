@@ -7,7 +7,7 @@ tags:
 title: Nudo Gordiano
 ---
 
-![](images/2006/06/tomine-guatavita-1-300x222.jpg)  
+![](/img/2006/06/tomine-guatavita-1-300x222.jpg)  
 (/images/2006/06/tomine-guatavita-1.jpg)Cuando era muy niño mis papás
 me contaron en repetidas ocasiones que mi nombre había sido elegido en honor a
 [Alejandro Magno](http://es.wikipedia.org/wiki/Alejandro_Magno), pues mi papá
@@ -46,7 +46,7 @@ Colombianos, de esas donde vuelvo a pensar mi vida, oxigeno el cuerpo y
 revitalizo el espíritu, a ver si la espada vuelve más liviana y el nudo parece
 menos esquivo a su nuevo filo.
 
-![](images/2006/06/tomine-guatavita-2-300x222.jpg)  
+![](/img/2006/06/tomine-guatavita-2-300x222.jpg)  
 (/images/2006/06/tomine-guatavita-2.jpg)Fotos:
 
 Arriba - Cerro junto al pueblo Nueva Guatavita, al pie del embalse de Tominé.

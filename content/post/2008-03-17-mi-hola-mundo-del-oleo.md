@@ -6,7 +6,7 @@ tags:
 title: Mi "Hola Mundo" del óleo
 ---
 
-![](images/hola-mundo.jpg)
+![](/img/hola-mundo.jpg)
 
 Detalle de mi primera obra pintada al óleo, un paisaje que hice a modo de
 "hola mundo" para aprender algunos conceptos básicos.

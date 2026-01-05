@@ -35,7 +35,7 @@ orígenes de su estilo y confesarle mi gran admiración hacia su obra artística
 es un tipo sencillo, que no sólo pinta la realidad cultural de la región, sino
 que la labra con su importante gestión comunitaria y su labor etnoeducativa.
 
-![](images/2006/04/jafeth_gomez-300x222.jpg)  
+![](/img/2006/04/jafeth_gomez-300x222.jpg)  
 (/images/2006/04/jafeth_gomez.jpg)Jafeth junto a la pintura que más le
 gustaba de la exposición.
 
@@ -48,6 +48,6 @@ visuales y el lenguaje gráfico como un medio expresión y difusión de mensajes
 que aporten a procesos culturales y sociales, tomando al arte no sólo como un
 servicio, sino como motivación y disfrute para las nuevas generaciones.
 
-![](images/2006/04/mural-jafeth-gomez-300x129.jpg)  
+![](/img/2006/04/mural-jafeth-gomez-300x129.jpg)  
 (/images/2006/04/mural-jafeth-gomez.jpg)Mural titulado "Germinación", ubicado en la empresa Empaques
 del Cauca (tuve que fotografiarlo en dos partes, por culpa de una reja).

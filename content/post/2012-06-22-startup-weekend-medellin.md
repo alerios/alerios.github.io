@@ -7,7 +7,7 @@ tags:
 title: StartUp Weekend Medellin
 ---
 
-![](images/2012/06/7168415761_4b3348a5df_m.jpg)  
+![](/img/2012/06/7168415761_4b3348a5df_m.jpg)  
 (http://www.flickr.com/photos/dfectuoso17/7168415761/)  
 [](http://www.flickr.com/photos/dfectuoso17/7168415761/)  
 Estuve participando en el [StartUp Weekend

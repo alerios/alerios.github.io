@@ -6,7 +6,7 @@ tags:
 title: De vuelta al dibujo.
 ---
 
-![](images/ent.jpg)
+![](/img/ent.jpg)
 
 Retomé y acabé esta escena de "Las Dos Torres" que tenía pendiente hace
 muchisisísimo tiempo y cuyo protagonista es un personaje que siempre me

@@ -7,7 +7,7 @@ tags:
 title: La Musa y el Programador
 ---
 
-![](images/musa-y-programador.jpg)
+![](/img/musa-y-programador.jpg)
 
 Al fin terminé este dibujo que empecé hace casi 8 días, aunque la idea viene
 de tiempo atrás. Es prácticamente mi primer dibujo anatómico desde que empecé

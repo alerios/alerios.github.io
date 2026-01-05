@@ -20,7 +20,7 @@ misteriosa ave es un [Pájaro Miná
 Asia, pero llevado a otros continentes donde se considera una especie invasiva
 y perjudicial:
 
-![](images/2008/05/Common*Myna*-28Acridotheres*tristis-29_on_Kapok*-28Ceiba_pentandra-29_in_Kolkata_W_IMG_4297.jpg)  
+![](/img/2008/05/Common*Myna*-28Acridotheres*tristis-29_on_Kapok*-28Ceiba_pentandra-29_in_Kolkata_W_IMG_4297.jpg)  
 (/images/2008/05/Common*Myna*-28Acridotheres*tristis-29_on_Kapok*-28Ceiba_pentandra-29_in_Kolkata_W_IMG_4297.jpg)
 
 La música que suena cuando aparece el ave es la famosa [Obertura "Las
@@ -30,7 +30,7 @@ conocida como "La gruta de Fingal", compuesta por el alemán [Felix
 Mendelssohn](http://es.wikipedia.org/wiki/Felix_Mendelssohn "Felix
 Mendelssohn") al inspirarse en 1830 con esta hermosa gruta insular Escocesa:
 
-![](images/2008/05/Fingals_cave_entrance_staffa.jpg)  
+![](/img/2008/05/Fingals_cave_entrance_staffa.jpg)  
 (/images/2008/05/Fingals_cave_entrance_staffa.jpg)
 
 Una de las razones por las cuales la caricatura no es muy difundida en la

@@ -59,7 +59,7 @@ interconexión de los millones de teléfonos fijos dispersos por todo el mundo,
 desde la central telefónica de un operador local de su ciudad, pasando por las
 centrales de tránsito nacionales, hasta los cables interoceánicos y otras
 conexiones internacionales.  
-![](images/2005/10/RTPC-300x81.jpg)  
+![](/img/2005/10/RTPC-300x81.jpg)  
 (/images/2005/10/RTPC.jpg)
 
 Para establecer una comunicación entre dos abonados o teléfonos, la RTPC
@@ -74,7 +74,7 @@ los abonados, son el corazón de la RTPC. Las central local se encarga de
 conectar los abonados llamante y llamado directamente, si se encuentran bajo
 su jurisdicción, o de solicitar la conexión a otra central si el abonado de
 destino se encuentra en otro lugar.  
-![](images/2005/10/Centrales-300x104.jpg)  
+![](/img/2005/10/Centrales-300x104.jpg)  
 (/images/2005/10/Centrales.jpg)
 
 Armarios de Distribución  
@@ -104,7 +104,7 @@ Hay varios equipos que se consideran CPE, pero los más destacados son los KS
 telefonía en las empresas. Si la PBX no es propiedad de la compañía
 telefónica, sino de la empresa cliente, no se considera un equipo CPE.
 
-![](images/2005/10/KS-300x80.jpg)  
+![](/img/2005/10/KS-300x80.jpg)  
 (/images/2005/10/KS.jpg)
 
 Los KS (Key Systems) funcionan como concentradores de líneas telefónicas, más
@@ -119,7 +119,7 @@ y compartirlas entre un gran número de extensiones distribuídas por todas sus
 instalaciones. La PBX suele ser propiedad de la empresa, lo cuál permite
 adaptarla rápidamente a las necesidades específicas de su negocio.
 
-![](images/2005/10/PBX-300x94.jpg)  
+![](/img/2005/10/PBX-300x94.jpg)  
 (/images/2005/10/PBX.jpg)
 
 Las PBX son conmutadores telefónicos, de tal forma que para realizar llamadas
