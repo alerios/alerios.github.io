@@ -34,6 +34,10 @@ jobs:
       - name: Build site
         run: hugo --minify
 
+      - name: Debug info
+        run: |
+          echo "Triggering pages build at $(date)"
+
       - name: Publish to gh-pages
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
