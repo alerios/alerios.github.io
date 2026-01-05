@@ -1,4 +1,4 @@
-baseurl = "https://alerios.net.eu.org"
+baseurl = "https://alerios.github.io/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "4lerios"
@@ -76,7 +76,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     name = "Blog"
-    url = "http://alerios.net.eu.org"
+    url = "/"
     weight = 1
 
 [[menu.main]]
