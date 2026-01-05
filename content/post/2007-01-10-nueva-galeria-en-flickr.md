@@ -6,7 +6,7 @@ tags:
 title: Nueva Galería en Flickr
 ---
 
-![](/images/2007/01/352468290_820bdfcf81_m.jpg)  
+![](images/2007/01/352468290_820bdfcf81_m.jpg)  
 (http://www.flickr.com/photos/alerios/352468290/)  
 [](http://www.flickr.com/photos/alerios/352468290/)
 

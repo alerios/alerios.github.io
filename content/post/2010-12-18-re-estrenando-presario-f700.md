@@ -17,7 +17,7 @@ pantalla de cristal líquido y la unidad de cd-rom.
 
 Así es como lucía el ventilador/disipador quemado y el repuesto:
 
-![](/images/2010/12/18122010-2528003-2529-300x225.jpg)  
+![](images/2010/12/18122010-2528003-2529-300x225.jpg)  
 (/images/2010/12/18122010-2528003-2529.jpg)
 
 Luego de cambiarlo y reiniciar, tenía un computador muy limpio y silencioso de

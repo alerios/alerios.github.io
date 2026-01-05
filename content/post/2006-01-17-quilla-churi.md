@@ -7,7 +7,7 @@ tags:
 title: Quilla Churi
 ---
 
-![](/images/2006/01/foto0010-300x222.jpg)
+![](images/2006/01/foto0010-300x222.jpg)
 
 Había olvidado mencionar que entre Noviembre y Diciembre estuve ensayando con
 un grupo de baile andino, participé en unas presentaciones en Diciembre y

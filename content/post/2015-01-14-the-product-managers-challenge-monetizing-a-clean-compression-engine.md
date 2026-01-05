@@ -11,13 +11,13 @@ The Saturday started off with much needed rain in San Francisco – a perfect be
 
 We started the day off with Alejandro Rios, our facilitator extraordinaire,  leading us through an introduction to the product. Quickly getting through the technical piece, we jumped into splitting off into teams. Each person had to pick a personality attribute they identify with most – creative, organized, optimistic, kind, or easygoing. Is it weird that no one identified with kind? Well, I guess we just had a lot of optimistic, easygoing product managers. The easygoing group was the largest. Eventually we landed on six groups of five to six talented managers!
 
-![](/images/2014/11/image01.jpg)
+![](images/2014/11/image01.jpg)
 
 Team Lamineer Flow (left) and Team Aeromatic
 
 The teams went through several iterations of empathizing (understanding the problem) and defining (restating the problem) – cutting, pasting, creating, and ultimately finding their way towards a solid understanding of the issue at hand.
 
-![](/images/2014/11/image00.jpg)
+![](images/2014/11/image00.jpg)
 
 Be Clean (left) and Global Clean Fuel hard at work creating mind maps and collages.
 
@@ -25,7 +25,7 @@ The discussions in each team took many turns from triple bottom lines to collage
 
 Sticky notes filled the boards as ideas flowed through the groups. Groups were no longer just talking about fleets but much more creative solutions for the new technology. From collecting cow gases to transforming San Francisco’s poop into natural gas for home and industrial use, the ideas were creative – sometimes funny – but ultimately innovative.
 
-![](/images/2014/11/image05.jpg)
+![](images/2014/11/image05.jpg)
 
 Team Squeaky Clean finalizing their solutions and working towards the business model canvas.
 
@@ -41,7 +41,7 @@ Deliberation was tense and everyone waited anxiously for the results of the judg
 
 1st Place: With a slick pricing model and low risk business model, Aeromatic took the grand prize for their Abatech solution.
 
-![](/images/2014/11/image02.jpg)
+![](images/2014/11/image02.jpg)
 
 Aeromatic hard at work on Abatech
 

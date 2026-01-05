@@ -7,7 +7,7 @@ tags:
 title: Para Ángela
 ---
 
-![](/images/2007/06/666142468_13b763603d_m.jpg)  
+![](images/2007/06/666142468_13b763603d_m.jpg)  
 (http://www.flickr.com/photos/alerios/666142468/)  
 [Para Ángela](http://www.flickr.com/photos/alerios/666142468/)  
 Gracias a mi gran amiga por los bonitos lápices de colores acuarelables que me

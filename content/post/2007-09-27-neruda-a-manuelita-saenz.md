@@ -7,7 +7,7 @@ tags:
 title: Neruda a Manuelita Sáenz
 ---
 
-![](/images/2007/09/1448358840_a1ffd6d8c4_m.jpg)  
+![](images/2007/09/1448358840_a1ffd6d8c4_m.jpg)  
 (http://www.flickr.com/photos/alerios/1448358840/)  
 [](http://www.flickr.com/photos/alerios/1448358840/)
 

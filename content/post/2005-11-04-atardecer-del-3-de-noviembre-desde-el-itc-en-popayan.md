@@ -6,4 +6,4 @@ tags:
 title: Atardecer del 3 de noviembre desde el ITC en Popayán
 ---
 
-![](/images/2005/11/atardecer-200511030014.jpeg)
+![](images/2005/11/atardecer-200511030014.jpeg)

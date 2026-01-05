@@ -12,7 +12,7 @@ Este es un pequeño tutorial en el que comparto algunas cosas que espero sean
 principal está acompañado de algunas imágenes y comentarios de mi último viaje
 a este maravilloso destino ecoturístico.
 
-![](/images/2005/11/purace0008.jpg)
+![](images/2005/11/purace0008.jpg)
 
 Foto del volcán Puracé al amanecer, se alcanza a apreciar una leve capa de
 escarcha y las fumarolas de vapores azufrados.
@@ -24,7 +24,7 @@ cantidad de lagunas y cascadas, además de los Termales de San Juan, la Cueva
 de los Guácharos y la estrella fluvial de Colombia, donde nacen cuatro de los
 principales ríos del País: Magdalena, Cauca, Patía y Caquetá.
 
-![](/images/2005/11/purace0010a.jpg)
+![](images/2005/11/purace0010a.jpg)
 
 Foto de la vista hacia el norte desde la subida al Puracé. La Laguna de San
 Rafael, seguida de una momentánea "laguna" de nubes y, al fondo, el majestuoso
@@ -83,7 +83,7 @@ suficiente. También es importante aplicar protector solar en el rostro y
 llevar unas gafas con filtro, ya que en las alturas el sol y el viento pueden
 quemar bastante.
 
-![](/images/2005/11/purace0018a.jpg)
+![](images/2005/11/purace0018a.jpg)
 
 "Auto-Foto" donde se puede ver como el
 sol paspó mis labios y oscureció al máximo mis gafas. Al fondo, el interior
@@ -114,7 +114,7 @@ ocupadas ancestralmente por indígenas y que se debe mostrar respeto tanto por
 su cultura como por la naturaleza y el misticismo que las rodea. Como dato
 adicional, Puracé significa "Montaña de Fuego" en lengua indígena.
 
-![](/images/2005/11/purace0001.jpg)
+![](images/2005/11/purace0001.jpg)
 
 Aquí la foto de un niño de Puracé
 dormido en el bus, mientras su padre (el chofer) baja el equipaje de unos
@@ -132,7 +132,7 @@ el desvío a la izquierda hacia Pilimbalá (~1Km) a unos 20 minutos caminando o
 5 en carro. También hay un "desecho" o atajo desde El Crucero hasta Pilimbalá,
 pero es mejor tomarlo sólo con alguien que ya lo conozca.
 
-![](/images/2005/11/purace0004.jpg)
+![](images/2005/11/purace0004.jpg)
 
 He aquí una foto del atardecer desde el
 desecho del "Cruce de la Mina" a Pilimbalá el día anterior a la subida, un
@@ -173,7 +173,7 @@ donde se miden las fuerzas de los aventureros al encontrarse una pendiente tan
 pronunciada desde el principio del camino. Se caracteriza porque atraviesa
 varios potreros y sembradíos.
 
-![](/images/2005/11/purace0005a.jpg)
+![](images/2005/11/purace0005a.jpg)
 Foto del amanecer desde la subida al
 Poste.
 
@@ -195,7 +195,7 @@ es engañoso, ya que la Base se ve cerquitica y uno camina y camina y nada que
 llega. Es importante sólo tomar los atajos que el guía indica, ya que hay
 varias zonas cercanas a la base que son campos minados.
 
-![](/images/2005/11/purace0009a.jpg)  
+![](images/2005/11/purace0009a.jpg)  
 Foto de uno de los lagos que se
 encuentran justo en el cruce del desecho con el camino de la mina.
 
@@ -211,7 +211,7 @@ aventureros del Puracé la historia de unos estudiantes que se encontraban
 cerca al cráter cuando este empezó hacer erupción y corrieron por sus vidas
 hasta alcanzar a cubrirse tras esta formación rocosa que los salvó.
 
-![](/images/2005/11/purace0011a.jpg)  
+![](images/2005/11/purace0011a.jpg)  
 Foto de la Piedra del Estudiante.
 Nótese el paso de un avión que se ve entre las dos piedras.
 
@@ -220,7 +220,7 @@ arenoso e inestable, constantemente se escucha la caída esporádica de piedras
 que resbalan hasta el fondo. Si usted no quiere acompañarlas, es mejor que
 aprecie el cráter con mucha precaución y desde una distancia prudente.
 
-![](/images/2005/11/purace0016.jpg)
+![](images/2005/11/purace0016.jpg)
 
 Foto del interior del Cráter principal.
 
@@ -231,7 +231,7 @@ volcán es muy angosto, el terreno es arenoso y el viento sopla muy fuerte. Es
 mejor pasar de uno en uno y que todos se sujeten a una cuerda larga (Predico
 pero no aplico).
 
-![](/images/2005/11/purace0015.jpg)
+![](images/2005/11/purace0015.jpg)
 
 Foto del borde suroccidental.
 
@@ -239,7 +239,7 @@ Hacia el lado nororiental se pueden ver los demás cráteres que forman la
 cadena volcánica del Puracé (creo que son como 13 en total), la cual se
 extiende en sentido occidente-oriente hasta el cerro Pan de Azúcar.
 
-![](/images/2005/11/purace0019.jpg)
+![](images/2005/11/purace0019.jpg)
 
 Foto de otros cráteres.
 
@@ -254,7 +254,7 @@ Volcán las que le dan esa "pizca" de vapores azufrados a las nubes para que
 tengan luego esos hermosos colores que sólo un atardecer en Popayán puede
 tener.
 
-![](/images/2005/11/purace0020.jpg)  
+![](images/2005/11/purace0020.jpg)  
 Foto del paso de las nubes.
 
 Otras Recomendaciones y Comentarios

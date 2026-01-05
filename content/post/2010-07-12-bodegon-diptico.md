@@ -6,7 +6,7 @@ tags:
 title: Bodegón Díptico
 ---
 
-![](/images/bodegon_diptico.jpg)
+![](images/bodegon_diptico.jpg)
 
 Mi segundo óleo en el taller de
 [patricialezaca.com/](http://patricialezaca.com/)

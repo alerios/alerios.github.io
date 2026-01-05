@@ -6,7 +6,7 @@ tags:
 title: Aikido Arrabalero
 ---
 
-![](/images/2007/08/aikido_explica.gif) # /images/2007/08/aikido_explica.gif)El
+![](images/2007/08/aikido_explica.gif) # /images/2007/08/aikido_explica.gif)El
 [Aikido](http://es.wikipedia.org/wiki/Aikido) llegó a mí vida a través de
 Santiago y Diana Jimena. Ha sido una llegada extraña y afortunada, y estoy muy
 contento. He estado practicando por casi dos meses y el pasado puente festivo

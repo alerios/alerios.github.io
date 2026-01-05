@@ -6,6 +6,6 @@ tags:
 title: Estrenando Cámara
 ---
 
-![](/images/2005/10/foto0005-cortada1-300x185.jpeg)
+![](images/2005/10/foto0005-cortada1-300x185.jpeg)
 
 Atardecer del 19 de Octubre visto desde El Morro, en Popayán.

@@ -39,26 +39,26 @@ A continuación algunas fotos, con sus respectivos comentarios, que tomé
 tratando de captar más aspectos humanos que arquitectónicos o religiosos, pues
 considero que estos han sido ya ampliamente retratados por otras personas:
 
-![](/images/2006/04/semana-santa-popayan-2006-4a-222x300.jpg)  
+![](images/2006/04/semana-santa-popayan-2006-4a-222x300.jpg)  
 (/images/2006/04/semana-santa-popayan-2006-4a.jpg)
 
 Una de las muchas personas que desde varias horas antes de las procesiones ya
 está guardando puesto para no perder detalle.
 
-![](/images/2006/04/semana-santa-popayan-2006-1-300x216.jpg)  
+![](images/2006/04/semana-santa-popayan-2006-1-300x216.jpg)  
 (/images/2006/04/semana-santa-popayan-2006-1.jpg)
 
 La Iglesia de San Francisco, una de las más bellas de la ciudad, es centro de
 romería durante todos estos días santos.
 
-![](/images/2006/04/semana-santa-popayan-2006-2-300x225.jpg)  
+![](images/2006/04/semana-santa-popayan-2006-2-300x225.jpg)  
 (/images/2006/04/semana-santa-popayan-2006-2.jpg)
 
 Con la cantidad de gente que va de peregrinación a Popayán por estos días, se
 ve de todo. Siempre es interesante ver las diferentes reacciones que producen
 personajes atípicos en niños y adultos.
 
-![](/images/2006/04/semana-santa-popayan-2006-3-222x300.jpg)  
+![](images/2006/04/semana-santa-popayan-2006-3-222x300.jpg)  
 (/images/2006/04/semana-santa-popayan-2006-3.jpg)Un río de gente en la
 calle quinta, desde la Ermita hasta donde llega la vista, algo que durante el
 resto del año es impensable.

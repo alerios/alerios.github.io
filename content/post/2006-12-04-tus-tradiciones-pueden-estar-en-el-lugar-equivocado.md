@@ -6,7 +6,7 @@ tags:
 title: Tus tradiciones pueden estar en el lugar equivocado...
 ---
 
-![](/images/tradiciones.jpg)
+![](images/tradiciones.jpg)
 
 Hace ya algunos años que dejé de profesar la religión Católica, o cualquier
 otra, pero me gusta apoyar la mayoría de tradiciones y expresiones de la

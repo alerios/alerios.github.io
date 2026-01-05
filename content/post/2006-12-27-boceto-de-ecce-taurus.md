@@ -7,7 +7,7 @@ tags:
 title: Boceto de Ecce Taurus
 ---
 
-![](/images/ecce-taurus.jpg)
+![](images/ecce-taurus.jpg)
 
 La temporada taurina llegó demasiado rápido este año a Colombia y no alcancé a
 terminar la pintura que quería hacer en contra de este espectáculo tan morboso

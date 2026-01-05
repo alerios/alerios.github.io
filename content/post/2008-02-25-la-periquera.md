@@ -7,7 +7,7 @@ tags:
 title: La Periquera
 ---
 
-![](/images/2008/02/2289887945_b5f6118716_m.jpg)  
+![](images/2008/02/2289887945_b5f6118716_m.jpg)  
 (http://www.flickr.com/photos/alerios/2289887945/)  
 [La Periquera sobre mi](http://www.flickr.com/photos/alerios/2289887945/)
 
