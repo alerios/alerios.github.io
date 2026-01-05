@@ -1,0 +1,63 @@
+name: Build and deploy site to GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository (with submodules)
+        uses: actions/checkout@v4
+        with:
+          submodules: 'recursive'
+          fetch-depth: 0
+
+      - name: Install Hugo (manual)
+        run: |
+          set -euo pipefail
+          HUGO_VERSION=0.125.0
+          ARCH=Linux-64bit
+          URL="https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_${ARCH}.tar.gz"
+          echo "Downloading Hugo from $URL"
+          curl -sfL "$URL" -o hugo.tar.gz
+          tar -xzf hugo.tar.gz hugo
+          sudo mv hugo /usr/local/bin/hugo
+          hugo version
+
+      - name: Build site
+        run: hugo --minify
+
+      - name: Add CNAME (custom domain)
+        # adjust the domain value if you prefer another host
+        run: |
+          echo "alerios.net.eu.org" > public/CNAME
+
+      - name: Upload artifact for GitHub Pages
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: ./public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: https://alerios.github.io/
+
+    permissions:
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1
