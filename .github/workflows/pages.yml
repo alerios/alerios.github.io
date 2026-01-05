@@ -2,9 +2,7 @@ name: Build and deploy site to GitHub Pages
 
 on:
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+    branches: [ source ]
 
 permissions:
   contents: read
@@ -12,14 +10,15 @@ permissions:
   id-token: write
 
 jobs:
-  build:
+  build-and-deploy:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository (with submodules)
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          submodules: 'recursive'
+          submodules: false
           fetch-depth: 0
 
       - name: Install Hugo (manual)
@@ -28,7 +27,6 @@ jobs:
           HUGO_VERSION=0.125.0
           ARCH=Linux-64bit
           URL="https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_${ARCH}.tar.gz"
-          echo "Downloading Hugo from $URL"
           curl -sfL "$URL" -o hugo.tar.gz
           tar -xzf hugo.tar.gz hugo
           sudo mv hugo /usr/local/bin/hugo
@@ -37,22 +35,20 @@ jobs:
       - name: Build site
         run: hugo --minify
 
-      - name: Upload artifact for GitHub Pages
-        uses: actions/upload-pages-artifact@v2
-        with:
-          path: ./public
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: https://alerios.github.io/
-
-    permissions:
-      pages: write
-      id-token: write
-
-    steps:
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v1
+      - name: Publish to main root
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          rm -rf _deploy || true
+          mkdir _deploy
+          cp -a public/. _deploy/
+          cd _deploy
+          git init
+          git add --all
+          git commit -m "Deploy site: $GITHUB_SHA [skip ci]" || true
+          git branch -M main
+          git remote add deploy "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}"
+          git push --force deploy main
