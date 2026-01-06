@@ -6,6 +6,11 @@ on:
   push:
     branches: [ pages-setup, main ]
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -30,10 +35,10 @@ jobs:
 
       - name: Upload Pages artifact
         if: github.ref == 'refs/heads/main'
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./_site
 
       - name: Deploy to GitHub Pages
         if: github.ref == 'refs/heads/main'
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
