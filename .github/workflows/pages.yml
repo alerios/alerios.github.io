@@ -39,16 +39,10 @@ jobs:
         run: |
           echo "Triggering pages build at $(date)"
 
-      - name: Publish to main/docs
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          set -euo pipefail
-          rm -rf docs || true
-          mkdir -p docs
-          cp -a public/. docs/
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A docs
-          git commit -m "Deploy site to docs: $GITHUB_SHA [skip ci]" || true
-          git push "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}" HEAD:main
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./public
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1
