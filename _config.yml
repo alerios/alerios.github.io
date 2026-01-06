@@ -1,0 +1,13 @@
+title: Alerios Blog
+email: aleriospresidente@gmail.com
+author: alerios
+description: "Mi blog"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://alerios.github.io"
+theme: minima
+plugins: []
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title/
+exclude:
+  - node_modules
+  - vendor
