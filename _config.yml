@@ -4,10 +4,42 @@ author: alerios
 description: "Mi blog"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alerios.github.io"
-theme: minima
-plugins: []
+
+# Beautiful Jekyll theme
+remote_theme: daattali/beautiful-jekyll
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
 markdown: kramdown
 permalink: /:categories/:year/:month/:day/:title/
+
+# Beautiful Jekyll settings
+avatar: img/avatar-icon.png
+show-avatar: true
+social-share: true
+social-share-top: true
+social-share-bottom: true
+show-related-posts: true
+show-social-icons: true
+show-excerpts: true
+
+# Navigation
+navbar-links:
+  About Me: "about"
+  Blog: "/"
+  Tags: "tags"
+
 exclude:
   - node_modules
   - vendor
+  - post/
+  - tags/
+  - categories/
+  - page/
+  - docs/
+  - index.html
+  - index.xml
+  - 404.html
