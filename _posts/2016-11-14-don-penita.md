@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Don Peñita"
-date: 2016-11-14 23:38:02 +0000
 author: alerios
+date: "2016-11-14T23:38:02"
 tags: []
+title: Don Peñita
+layout: post
+
 ---
 
 # Manuel Antonio "Don Peñita" Peña Salamanca
@@ -85,7 +86,7 @@ cuartel donde los golpean y Duarte le dice a Manuel:
 \- Socio, estos son pájaros, nos van a matar... En eso llega otra
 persona, es una voz conocida, que pregunta con firmeza: \- Comandante, ¿Qué
 sucede aquí? \- Señor alcalde, atrapamos a estos chusmeros. \- No sea bestia,
-yeo los conozco, este es Manuel Peña, yo hago negocios con él hace tiempo, es
+yo los conozco, este es Manuel Peña, yo hago negocios con él hace tiempo, es
 una persona honesta, ¡déjelos ir! El alcalde les expide un salvoconducto y
 prosiguen su viaje a Honda, esperando no tener más problemas en el camino. Al
 llegar a salvo a casa, Manuel y Edith deciden ir a probar suerte más al sur, a
