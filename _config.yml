@@ -40,6 +40,5 @@ exclude:
   - categories/
   - page/
   - docs/
-  - index.html
   - index.xml
   - 404.html
